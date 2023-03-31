@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<luainfo>
+  <bigendian>False</bigendian>
+  <longformat>True</longformat>
+  <goals>
+    <goal id="11000">
+      <name>Nanimosinai11000_Logic</name>
+      <battleinterrupt>False</battleinterrupt>
+      <logicinterrupt>True</logicinterrupt>
+      <logicinterruptname>Nanimosinai11000_Interupt</logicinterruptname>
+    </goal>
+    <goal id="624000">
+      <name>HumanWorm_Youngs_624000_Logic</name>
+      <battleinterrupt>False</battleinterrupt>
+      <logicinterrupt>True</logicinterrupt>
+      <logicinterruptname>HumanWorm_Youngs_624000_Interupt</logicinterruptname>
+    </goal>
+    <goal id="625000">
+      <name>HumanWorm_Adult_625000_Logic</name>
+      <battleinterrupt>False</battleinterrupt>
+      <logicinterrupt>True</logicinterrupt>
+      <logicinterruptname>HumanWorm_Adult_625000_Interupt</logicinterruptname>
+    </goal>
+  </goals>
+</luainfo>

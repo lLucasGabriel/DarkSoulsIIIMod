@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<luainfo>
+  <bigendian>False</bigendian>
+  <longformat>True</longformat>
+  <goals>
+    <goal id="900000">
+      <name>NPCTest_900000Battle</name>
+      <battleinterrupt>True</battleinterrupt>
+      <logicinterrupt>False</logicinterrupt>
+    </goal>
+    <goal id="11000">
+      <name>Nanimosinai11000_Logic</name>
+      <battleinterrupt>False</battleinterrupt>
+      <logicinterrupt>True</logicinterrupt>
+      <logicinterruptname>Nanimosinai11000_Interupt</logicinterruptname>
+    </goal>
+  </goals>
+</luainfo>
